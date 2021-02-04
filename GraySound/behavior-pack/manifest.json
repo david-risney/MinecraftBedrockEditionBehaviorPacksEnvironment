@@ -1,0 +1,39 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "GraySound",
+        "description": "GraySound",
+        "uuid": "326d7d1d-6c7a-466a-8ad0-c8771abd656a",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "d31e9bc3-a7e2-42f3-b2d1-19a1fe1d42ea",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "63670ce6-f911-4aee-8703-1c54fa018182",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

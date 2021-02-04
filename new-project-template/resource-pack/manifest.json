@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "{ProjectName}",
+        "description": "{ProjectDescription}",
+        "uuid": "{ProjectResourcePackGuid}",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "{ProjectResourcePackModuleGuid}",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

@@ -37,5 +37,7 @@ UnzipUriToFolder "https://aka.ms/behaviorpacktemplate" "vanilla_behavior_pack";
 UnzipUriToFolder "https://aka.ms/resourcepacktemplate" "vanilla_resource_pack";
 UnzipUriToFolder "https://www.minecraft.net/content/dam/minecraft/addons/alien-invasion.mcworld" "alien_invasion";
 UnzipUriToFolder "https://www.minecraft.net/content/dam/minecraft/addons/castle-siege.mcworld" "castle_siege";
+UnzipUriToFolder "https://meedownloads.blob.core.windows.net/worlds/Mob%20Arena%20Demo.zip" "mob_arena_demo";
+UnzipUriToFolder "https://meedownloads.blob.core.windows.net/worlds/Turn-Based%20Game%20Demo.zip" "turn_based_game_demo";
 
 Write-Host "Done";
